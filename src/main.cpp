@@ -253,5 +253,5 @@ void loop() {
   }
 
   // Feed the watchdog and prevent 100% CPU usage
-  delay(100);
+  delay(50);
 }
